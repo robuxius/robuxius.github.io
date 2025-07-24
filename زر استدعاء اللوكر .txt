@@ -1,0 +1,3 @@
+<button class="cpa-btn" onclick="openLocker('https://secsers.com/')">
+    👉Continue
+</button>
